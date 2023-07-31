@@ -50,7 +50,7 @@ jobs:
           # plugin_stargazers: yes  # активность за месяц
           # plugin_stargazers_charts_type: chartist  # тип активности - плавные линии
 
-          plugin_support: yes  # плагин поддержки
+          # plugin_support: yes  # плагин поддержки
 
           # plugin_topics: yes  # плагин ипсользуемых тем
           # plugin_topics_limit: 0
