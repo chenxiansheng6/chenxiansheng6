@@ -36,12 +36,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![chenxiansheng6's github stats](https://github-readme-stats.vercel.app/api?username=chenxiansheng6&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxiansheng6&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chenxiansheng6"></img>
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/nicerchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/chenxiansheng6/chenxiansheng6/master/assets/twitter.svg" alt="chenxiansheng6" height="30" width="30" /> </a>
